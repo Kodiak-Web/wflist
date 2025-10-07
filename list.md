@@ -1,50 +1,7 @@
-<style>
-blockquote {
-  background: #eec0c0;
-  border-left: 0.3em solid #bb5050;
-  padding: 0% 0.5em;
-  border-radius: 1em;
-}
-body {
-  margin: 5% auto;
-  background: #d0d0ee;
-  color: #3F3020;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
-    Arial, sans-serif;
-  font-size: 16px;
-  text-align: center;
-  line-height: 1.8;
-  max-width: 73%;
-}
-code {
-  background: white;
-}
-a {
-  border-bottom: 1px solid #444444;
-  color: #444444;
-  text-decoration: none;
-}
-a:hover {
-  border-bottom: 0;
-}
-table {
-  table-layout: fixed;
-  margin: 0 auto;
-  border-collapse: collapse;
-  border-top: 1px solid #999999;
-  border-bottom: 1px solid #999999;
-}
-tfoot {
-  border-top: 1px solid #999999;
-}
-th,
-td {
-  padding: 0.6em;
-}
-tbody tr:nth-child(odd) {
-  background-color: #c0c0dd;
-}
-</style>
+
+<link rel="stylesheet" href="style.css">
+
+
 > **When it’s written a shop ships internationally, note that their shipping providers may have exceptions. These exceptions tend to be countries in conflict, affected by natural disasters, strikes, etc. Be aware of each creator’s shipping policies and your own country’s shipping situation before ordering.**
 
 
